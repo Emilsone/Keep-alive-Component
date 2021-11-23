@@ -1,9 +1,9 @@
 import Vue from 'vue'
-import App from './App.vue'
+import ShoppingList from './ShoppingList.vue'
 import './main.css'
 
 Vue.config.productionTip = false
 
 new Vue({
-  render: h => h(App),
+  render: h => h(ShoppingList),
 }).$mount('#app')

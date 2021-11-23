@@ -143,7 +143,7 @@ export default {
         },
         {
           cat: "School",
-          text: "Surface Laptop 2",
+          text: "Drawing Board",
           quantity: "2",
           date: "09/09/21",
           checked: false,
